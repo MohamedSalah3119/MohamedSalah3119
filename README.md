@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohamedSalah3119
-- 👀 I’m interested in Programming - Robotics - AI - Automation - ROS
-- 🌱 I’m currently learning Mechatronics 
+- 👀 I’m interested in Programming - Robotics - AI - Automation - ROS 
 - 📫 How to reach me: mohamedsalah0706@gmail.com
 
 <!---
